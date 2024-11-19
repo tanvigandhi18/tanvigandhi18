@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mail.tanvigandhi@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/12LNpiaEVCbD98FH3MLtO1otnjrZ3uY4ArNqb0H45lww/edit?usp=sharing](https://docs.google.com/document/d/12LNpiaEVCbD98FH3MLtO1otnjrZ3uY4ArNqb0H45lww/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/12LNpiaEVCbD98FH3MLtO1otnjrZ3uY4ArNqb0H45lww/edit?usp=sharing](https://docs.google.com/document/d/1-JJWV7bi3uY7T3cz9gB_KUXv2ZcVokpz5NTYywyxPD8/edit?tab=t.0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
