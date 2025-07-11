@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Tanvi Gandhi</h1>
+<h1 align="center">👩‍💻 Tanvi Gandhi  </h1>
 <h3 align="center">A passionate tech enthusiast with a keen interest in emerging technologies. Recently graduated with a Master's in Machine Learning and Data Science from USC Viterbi</h3>
 
 💬 Let's connect!
