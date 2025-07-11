@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Tanvi Gandhi</h1>
 <h3 align="center">A passionate tech enthusiast with a keen interest in emerging technologies. Recently graduated with a Master's in Machine Learning and Data Science from USC Viterbi</h3>
 
-💬 Ask me about **Machine Learning**
+💬 Let's connect!
 
 📫 How to reach me **tanvibhu@usc.edu**
 
@@ -9,7 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanvi-gandhi-677145185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanvi-gandhi-677145185/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanvi-gandhi-677145185/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanvi Gandhi LinkedIn" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
