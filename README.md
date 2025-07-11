@@ -1,11 +1,11 @@
 <h1 align="center">Hello👋, I'm Tanvi Gandhi</h1>
-<h3 align="center">Machine Learning and Data Science enthusiast from Los Angeles</h3>
+<h3 align="center">A passionate tech enthusiast with a keen interest in emerging technologies. Recently graduated with a Master's in Machine Learning and Data Science from USC Viterbi</h3>
 
 - 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **mail.tanvigandhi@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/12LNpiaEVCbD98FH3MLtO1otnjrZ3uY4ArNqb0H45lww/edit?usp=sharing](https://docs.google.com/document/d/1-JJWV7bi3uY7T3cz9gB_KUXv2ZcVokpz5NTYywyxPD8/edit?tab=t.0)
+- 📄 Know about my experiences [Resume]([https://docs.google.com/document/d/1-JJWV7bi3uY7T3cz9gB_KUXv2ZcVokpz5NTYywyxPD8/edit?tab=t.0](https://docs.google.com/document/d/1p8SkDNkCUBQNTOtBmI7LCAKMesogAvhLSzOp3RbQ6gQ/edit?tab=t.0))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
